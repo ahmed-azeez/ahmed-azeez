@@ -4,8 +4,6 @@
 <div align="center">
   
 
-![Snake animation](https://raw.githubusercontent.com/mscazmy/mscazmy/output/github-snake.svg)
-
 </div>
 
 # 👋 Hi, I’m Ahmed Azeez Hasan
@@ -109,3 +107,6 @@ I primarily apply **Health Behavior Theories**—notably the **Health Belief Mod
 ---
 
 ⭐ *Interested in community health surveillance, psychometrics, and applied SEM.*
+
+
+![Snake animation](https://raw.githubusercontent.com/mscazmy/mscazmy/output/github-snake.svg)
